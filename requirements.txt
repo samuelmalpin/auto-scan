@@ -1,0 +1,2 @@
+# Dépendances Python pour auto-scan.py
+rich>=13.0.0
